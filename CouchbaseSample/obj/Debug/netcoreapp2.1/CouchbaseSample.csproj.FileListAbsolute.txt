@@ -1,0 +1,11 @@
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.csprojAssemblyReference.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.AssemblyInfoInputs.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.AssemblyInfo.cs
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\bin\Debug\netcoreapp2.1\CouchbaseSample.deps.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\bin\Debug\netcoreapp2.1\CouchbaseSample.runtimeconfig.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\bin\Debug\netcoreapp2.1\CouchbaseSample.runtimeconfig.dev.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\bin\Debug\netcoreapp2.1\CouchbaseSample.dll
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\bin\Debug\netcoreapp2.1\CouchbaseSample.pdb
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.dll
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\CouchbaseSample\obj\Debug\netcoreapp2.1\CouchbaseSample.pdb

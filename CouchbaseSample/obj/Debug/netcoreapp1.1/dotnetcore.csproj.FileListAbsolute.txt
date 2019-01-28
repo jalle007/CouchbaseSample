@@ -1,0 +1,11 @@
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\bin\Debug\netcoreapp1.1\dotnetcore.deps.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\bin\Debug\netcoreapp1.1\dotnetcore.runtimeconfig.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\bin\Debug\netcoreapp1.1\dotnetcore.runtimeconfig.dev.json
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\bin\Debug\netcoreapp1.1\dotnetcore.dll
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\bin\Debug\netcoreapp1.1\dotnetcore.pdb
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.csprojAssemblyReference.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.AssemblyInfoInputs.cache
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.AssemblyInfo.cs
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.dll
+C:\Projects\Learning\Couchbase\aspnet-nosql-workshop\03\dotnetcore\dotnetcore\obj\Debug\netcoreapp1.1\dotnetcore.pdb
